@@ -22,8 +22,7 @@ At the moment, my primary focus is on frontend technologies, where I aim to crea
 
 ## Streak Stats Activity
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sulyman002&theme=radical&background=FFFFFF&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sulyman002&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Top Repositories
 
