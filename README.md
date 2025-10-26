@@ -1,7 +1,6 @@
 <p align="center"><a href="https://anuraghazra.github.io"><img width="60%" alt="Hello, I'm Sulaiman. I do open source!" src="./hello_sulyman.png" /></a></p>
 
 <br />
-
 I'm a self-taught passionate Frontend Engineer currently in my penultimate year at the Federal University of Technology, Minna, where I’m pursuing a Bachelor of Technology degree.
 
 I’m passionate about exploring technology and building solutions that make processes more efficient. My core expertise lies in JavaScript and TypeScript, and I work extensively with frameworks such as React.js, Next.js, and Node.js.
