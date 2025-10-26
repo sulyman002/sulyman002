@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Sulaiman. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Sulaiman. I do open source!" src="./hello_sulyman.png" /></a></p>
 
 <br />
 
@@ -23,6 +23,8 @@ At the moment, my primary focus is on frontend technologies, where I aim to crea
 ## Streak Stats Activity
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sulyman002&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- top repo -->
 
 ## Top Repositories
 
