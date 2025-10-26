@@ -4,7 +4,7 @@
 
 I'm a self-taught passionate FrontEnd developer from Nigeria
 
-**About me**
+# 😎 About me:
 
 - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
